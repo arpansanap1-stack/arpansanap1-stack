@@ -121,10 +121,10 @@ I'm focused on building strong fundamentals, learning how real-world systems wor
 
 | Certification | Issuer | Credential |
 | --- | --- | --- |
-| Git Certification | Boot.dev | [Add certificate link](YOUR_BOOTDEV_GIT_CERTIFICATE_URL) |
-| Git & GitHub Certification | Add issuing platform | [Add certificate link](YOUR_GITHUB_CERTIFICATE_URL) |
+| Git Certification | Boot.dev | [![Boot.dev Learn Git certificate](https://api.boot.dev/v1/static/certificate/4e2bfc67-0916-440f-b495-a88f751f358e)](https://www.boot.dev/certificates/4e2bfc67-0916-440f-b495-a88f751f358e) |
+| Pythion Certification| Boot.dev | [![Boot.dev Introduction to Python Course certificate](https://api.boot.dev/v1/static/certificate/4891f2af-76ea-4362-8129-34dd8dc79a8b)](https://www.boot.dev/certificates/4891f2af-76ea-4362-8129-34dd8dc79a8b) |
 
-> Replace the placeholder links and issuer details with the exact information shown on your certificates before publishing.
+
 
 ## 📈 GitHub Overview
 
