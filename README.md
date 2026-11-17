@@ -129,8 +129,8 @@ I'm focused on building strong fundamentals, learning how real-world systems wor
 ## 📈 GitHub Overview
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arpansanap1-stack&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" alt="Arpan's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpansanap1-stack&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used programming languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=arpansanap1-stack&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" alt="Arpan's GitHub statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=arpansanap1-stack&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used programming languages" />
   <br />
   <img src="https://streak-stats.demolab.com?user=arpansanap1-stack&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 </div>
@@ -140,8 +140,8 @@ I'm focused on building strong fundamentals, learning how real-world systems wor
 I'm always happy to connect with people who enjoy building, learning, and exchanging ideas.
 
 - 💻 **GitHub:** [@arpansanap1-stack](https://github.com/arpansanap1-stack)
-- 💼 **LinkedIn:** Add your LinkedIn profile
-- 🌐 **Portfolio:** Add your portfolio when it is ready
+- 💼 **LinkedIn:** [Arpan Sanap](www.linkedin.com/in/arpan-sanap-1434s)
+- 🌐 **Portfolio:**[Arpan Sanpa](arpansanap.vercel.app)
 
 ---
 
