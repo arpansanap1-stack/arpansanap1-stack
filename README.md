@@ -140,8 +140,8 @@ I'm focused on building strong fundamentals, learning how real-world systems wor
 I'm always happy to connect with people who enjoy building, learning, and exchanging ideas.
 
 - 💻 **GitHub:** [@arpansanap1-stack](https://github.com/arpansanap1-stack)
-- 💼 **LinkedIn:** Add your LinkedIn profile
-- 🌐 **Portfolio:** Add your portfolio when it is ready
+- 💼 **LinkedIn:** [Arpan Sanap](www.linkedin.com/in/arpan-sanap-1434s)
+- 🌐 **Portfolio:** [Arpan Sanap](arpansanap.vercel.app)
 
 ---
 
