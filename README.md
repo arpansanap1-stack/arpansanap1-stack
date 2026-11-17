@@ -9,7 +9,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,50:1e3a8a,100:2563eb&text=Arpan%20Sanap&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Computer%20Science%20%26%20Design%20Student%20%7C%20Developer%20%7C%20Curious%20Builder&descAlignY=60&descSize=15" alt="Arpan Sanap profile banner" width="100%" />
+  <img src="./profile-banner.png" alt="Arpan Sanap profile banner" width="100%" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+ideas+into+real+projects;Learning+the+craft+of+software+engineering;Curious+about+systems%2C+code%2C+and+design" alt="Typing introduction" />
@@ -140,8 +140,8 @@ I'm focused on building strong fundamentals, learning how real-world systems wor
 I'm always happy to connect with people who enjoy building, learning, and exchanging ideas.
 
 - 💻 **GitHub:** [@arpansanap1-stack](https://github.com/arpansanap1-stack)
-- 💼 **LinkedIn:** [Arpan Sanap](www.linkedin.com/in/arpan-sanap-1434s)
-- 🌐 **Portfolio:** [Arpan Sanap](arpansanap.vercel.app)
+- 💼 **LinkedIn:** Add your LinkedIn profile
+- 🌐 **Portfolio:** Add your portfolio when it is ready
 
 ---
 
